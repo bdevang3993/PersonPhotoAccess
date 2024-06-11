@@ -1,0 +1,20 @@
+PODS:
+  - FSPagerView (0.8.3)
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - FSPagerView
+  - MBProgressHUD (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - FSPagerView
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: 903653b2702800bae0438651e43db6fcc9d7e468
+
+COCOAPODS: 1.12.1
